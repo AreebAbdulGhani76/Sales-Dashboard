@@ -1,13 +1,13 @@
 📊 Sales Dashboard | Overview (Using Tableau)
-🎯 Project Objective
+# Project Objective
 
 To design an interactive Tableau dashboard that visualizes sales, profit, and quantity trends across U.S. states, customer segments, and managers — enabling users to track KPIs, identify growth opportunities, and compare regional/managerial performance effectively.
 
-📂 Dataset
+# Dataset
 
 Sample Superstore Dataset (widely used for BI and analytics practice).
 
-❓ Key Questions Addressed in the Project
+# Key Questions Addressed in the Project
 
 💰 Total Sales, Profit & Quantity Trends
 What are the YoY changes in overall sales, profit, and quantities sold?
@@ -27,11 +27,11 @@ How do different managers perform in terms of sales contribution?
 📈 KPI Trends Over Time
 Which months show the highest and lowest sales/profit trends?
 
-📌 Dashboard
+# Dashboard
 
-(Upload on Tableau Public or GitHub and share link here)
+https://public.tableau.com/app/profile/areeb.abdul.ghani/viz/SalesDashboard_17548204312680/SalesDashboard
 
-🔎 Project Insights
+# Project Insights
 
 📊 Total Sales: $733K (+20.36% YoY)
 
@@ -47,7 +47,7 @@ Which months show the highest and lowest sales/profit trends?
 
 👩‍💼 Manager Sadie Parchorne achieved the highest sales contribution.
 
-✅ Conclusion
+# Conclusion
 
 This project highlights the power of Tableau in data-driven business analysis. With the dashboard:
 
