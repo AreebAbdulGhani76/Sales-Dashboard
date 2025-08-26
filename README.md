@@ -5,7 +5,7 @@ To design an interactive Tableau dashboard that visualizes sales, profit, and qu
 
 # Dataset
 
-Sample Superstore Dataset (widely used for BI and analytics practice).
+Sample Superstore Dataset 
 
 # Key Questions Addressed in the Project
 
